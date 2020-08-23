@@ -1,0 +1,10 @@
+Algorithm for Online Shopping.
+
+
+Step 1: Go to Login page.
+Step 2: Check if user is registered. 
+Step 3: If user is not registered goto register page and get registered. And goto Login page for Login.
+Step 4: Search, view and select the item.
+Step 5: Place the order.
+Step 6: Make the payment or select cash on delivery.
+Step 7: Give the feedback and get the order delivered.
