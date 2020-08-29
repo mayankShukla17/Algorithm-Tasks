@@ -1,4 +1,4 @@
-Algorithm for Online Shopping.
+2. Algorithm for Online Shopping.
 
 
 Step 1: Go to Login page.

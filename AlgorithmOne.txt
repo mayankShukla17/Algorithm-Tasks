@@ -1,4 +1,4 @@
-Algorithm to prepare Biscuits 
+1. Algorithm to prepare Biscuits 
 
 
 Step 1: Take the ingredients like Sugar, Butter, Egg, Flour.
